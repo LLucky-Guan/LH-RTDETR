@@ -1,0 +1,9 @@
+# dataset path
+# path: /home/hjj/Desktop/project/RTDETR/
+train: ../datasets/coal_data/train/images
+val: ../datasets/coal_data/val/images
+test: ../datasets/coal_data/test/images
+
+nc: 5
+
+names: ['miner','helmet','gripper','drill_pipe','chuck']
